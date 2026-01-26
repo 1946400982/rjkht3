@@ -1,0 +1,999 @@
+{
+  "分享内容": "涵锦软件库下载地址\n网址①https://link3.cc/yeruyi\n网址②https://link3.cc/yeruyi\n(如果浏览器进不去网址)\n推荐使用(Via浏览器)",
+  "群KEY": "",
+  "客服QQ": "暂无",
+  "客服微信": "暂无",
+  "启动页图片": "https://www.4kbizhi.com/d/file/2021/05/29/small0013437CJbf1622218423.jpg",
+  "启动页跳转": "https://link3.cc/yeruyi",
+  "启动页标题": "涵锦软件库",
+  "启动页副标题": "记得常来看我",
+  "启动页跳转时间": "3",
+  
+  "公告标题": "公告",
+  "公告内容": "",
+  "公告图片": "https://p1.ssl.qhimgs1.com/sdr/400__/t017f1c4020e0fee21b.jpg",
+  "公告按钮一": "关闭",
+  "公告按钮一跳转": "",
+  "公告按钮二": "",
+  "公告按钮二跳转": "",
+  "公告按钮三": "",
+  "公告按钮三跳转": "",
+  
+  "当前版本": "1.0.0",
+  "更新标题": "涵锦软件库新版本1.0.0",
+  "更新内容": "【1】新版本修复已知BUG！\n【2】安装新版本后，是一个新软件！\n【3】如果手机不能安装软件\n请关闭手机网络，把WiFi和流量关了，再去安装软件！\n\n(输入下方网址也可以下载更新)\n官网①https://link3.cc/yeruyi\n备用官网②https://link3.cc/yeruyi\n(如果浏览器进不去网址)\n推荐使用(Via浏览器)",
+  "强制更新": "开启",
+  "更新按钮一": "点击更新1",
+  "更新按钮一跳转": "https://link3.cc/yeruyi",
+  "更新按钮二": "点击更新2",
+  "更新按钮二跳转": "https://link3.cc/yeruyi",
+  "更新按钮三": "点击更新3",
+  "更新按钮三跳转": "https://link3.cc/yeruyi",
+
+  "界面一标题": "首页",
+  "界面一副标题": "点击右上角分享给“好友”",
+  "首页滚动公告": "破解软件不要相信软件内的任何付费和广告,如需付费就是失效了",
+  "首页文字": "公告专区",
+  
+  "界面二标题": "软件",
+  "界面二副标题": "【不要相信软件内的任何付费与广告】",
+  
+  "界面三标题": "发现",
+  "界面三副标题": "聚合【工具箱 薅羊毛】",
+  
+  "界面四标题": "更多",
+  "界面四副标题": "点击右上角分享给“好友”",
+  "界面四文字一": "涵锦软件库",
+  "界面四文字二": "1.0.0",
+  "界面四文字三": "已是最新版本",
+  
+  "界面四选项": [
+    {
+      "标题": "永久地址",
+      "副标题": "防止迷路",
+      "链接": "https://link3.cc/yeruyi",
+      "打开方式": "外置"
+    },
+    {
+      "标题": "侵权投诉",
+      "副标题": "dmcacx@proton.me",
+      "链接": "https://dmcacx@proton.me",
+      "打开方式": "外置"
+    },
+    {
+      "标题": "软件反馈",
+      "副标题": "有问题可以反馈",
+      "链接": "https://wj.qq.com/s2/23029158/a745/",
+      "打开方式": "内置"
+    },
+    {
+      "标题": "TG频道",
+      "副标题": "暂无内容",
+      "链接": "https://t.me/lsjss",
+      "打开方式": "外置"
+    }
+  ],
+  
+  
+  "首页软件": [
+    "https://www.lanzoum.com/b00g2cq4vi",
+    "https://www.lanzoum.com/b00g2cqilc",
+    "https://www.lanzoum.com/b00g3326sf",
+    "https://wwa.lanzoum.com/b00g2cqimd",
+    "https://wwa.lanzoum.com/b00g2cqiof",
+    "https://wwa.lanzoum.com/b00g2cqipg",
+    "https://wwa.lanzoum.com/b00g2cqiqh"
+  ],
+  
+  
+  "下载弹窗": {
+    "弹窗标题":"下载方式",
+    "弹窗内容":"\n1.【本地下载】点击一键下载！\n下载路径：/sdcard/涵锦软件库\n\n2.【浏览器下载】点击自动跳转到浏览器\n\n3.【复制链接】点击自动复制下载链接，到浏览器粘贴下载!\n\n4.(遇到下载慢或者无法下载)换浏览器\n推荐用《X浏览器》官网xebxt.com\n或者用《via浏览器》官网viayoo.com\n\n5.(遇到手机不让安装软件)\n关闭手机网络或开启飞行模式，断网安装即可"
+  },
+  "下载页提示":"软件安装报毒请断网安装,不要相信任何破解软件内的付费与广告,如需付费才能使用就是失效了",
+
+  "软件列表文字": "免费",
+  "软件分类": [
+    {
+      "标题": "影音视听",
+      "任务": "关闭",
+      "提示":"软件获取失败点击右下角刷新或切换线路，页面空白请重新进入软件！",
+      "介绍图": "https://s3.bmp.ovh/imgs/2025/07/04/d610a6e997a62d9f.jpg",
+      "链接": [
+        "https://www.lanzouv.com/b00g2cq4vi",
+        "https://ipv.lanzoum.com/b00g2cq4vi",
+        "https://wwrx.lanzoum.com/b00g2cq4vi",
+        "https://wwhn.lanzouq.com/b00g2cq4vi",
+        "https://wwkv.lanzouw.com/b00g2cq4vi",
+        "https://wwbj.lanzoue.com/b00g2cq4vi",
+        "https://wwyw.lanzouy.com/b00g2cq4vi",
+        "https://wwnc.lanzoux.com/b00g2cq4vi"
+      ],
+      "置顶": [
+        {
+          "文字": "免费",
+          "name_all": "更多软件",
+          "ico": "",
+          "url": "https://pan.quark.cn/s/c624e551b410",
+          "time": "更多软件资源点我前往"
+        }
+        ]
+    },
+    {
+      "标题": "小说漫画",
+      "任务": "关闭",
+      "提示":"软件获取失败点击右下角刷新或切换线路，页面空白请重新进入软件！",
+      "介绍图": "https://s3.bmp.ovh/imgs/2025/07/04/d610a6e997a62d9f.jpg",
+      "链接": [
+        "https://www.lanzouv.com/b00g2cqilc",
+        "https://ipv.lanzoum.com/b00g2cqilc",
+        "https://wwrx.lanzoum.com/b00g2cqilc",
+        "https://wwhn.lanzouq.com/b00g2cqilc",
+        "https://wwkv.lanzouw.com/b00g2cqilc",
+        "https://wwbj.lanzoue.com/b00g2cqilc",
+        "https://wwyw.lanzouy.com/b00g2cqilc",
+        "https://wwnc.lanzoux.com/b00g2cqilc"
+      ],
+      "置顶": [
+        {
+          "name_all": "更多软件",
+          "ico": "",
+          "url": "https://pan.quark.cn/s/c624e551b410",
+          "time": "更多软件资源点我前往"
+        }
+        ]
+    },
+    {
+      "标题": "实用工具",
+      "任务": "关闭",
+      "提示":"软件获取失败点击右下角刷新或切换线路，页面空白请重新进入软件！",
+      "介绍图": "https://s3.bmp.ovh/imgs/2025/07/04/d610a6e997a62d9f.jpg",
+      "链接": [
+        "https://www.lanzouv.com/b00g2cqimd",
+        "https://ipv.lanzoum.com/b00g2cqimd",
+        "https://wwrx.lanzoum.com/b00g2cqimd",
+        "https://wwhn.lanzouq.com/b00g2cqimd",
+        "https://wwkv.lanzouw.com/b00g2cqimd",
+        "https://wwbj.lanzoue.com/b00g2cqimd",
+        "https://wwyw.lanzouy.com/b00g2cqimd",
+        "https://wwnc.lanzoux.com/b00g2cqimd"
+      ],
+      "置顶": [
+        {
+          "name_all": "更多软件",
+          "ico": "",
+          "url": "https://pan.quark.cn/s/c624e551b410",
+          "time": "更多软件资源点我前往"
+        }
+        ]
+    },
+    {
+      "标题": "热门软件",
+      "任务": "关闭",
+      "提示":"软件获取失败点击右下角刷新或切换线路，页面空白请重新进入软件！",
+      "介绍图": "https://s3.bmp.ovh/imgs/2025/07/04/d610a6e997a62d9f.jpg",
+      "链接": [
+        "https://www.lanzouv.com/b00g2cqiqh",
+        "https://ipv.lanzoum.com/b00g2cqiqh",
+        "https://wwrx.lanzoum.com/b00g2cqiqh",
+        "https://wwhn.lanzouq.com/b00g2cqiqh",
+        "https://wwkv.lanzouw.com/b00g2cqiqh",
+        "https://wwbj.lanzoue.com/b00g2cqiqh",
+        "https://wwyw.lanzouy.com/b00g2cqiqh",
+        "https://wwnc.lanzoux.com/b00g2cqiqh"
+      ],
+      "置顶": [
+        {
+          "name_all": "更多软件",
+          "ico": "",
+          "url": "https://pan.quark.cn/s/c624e551b410",
+          "time": "更多软件资源点我前往"
+        }
+        ]
+    },
+    {
+      "标题": "成人软件",
+      "任务": "关闭",
+      "提示":"软件获取失败点击右下角刷新或切换线路，页面空白请重新进入软件！",
+      "介绍图": "https://s3.bmp.ovh/imgs/2025/07/04/d610a6e997a62d9f.jpg",
+      "链接": [
+        "https://www.lanzouv.com/b00g3326sf",
+        "https://ipv.lanzoum.com/b00g3326sf",
+        "https://wwrx.lanzoum.com/b00g3326sf",
+        "https://wwhn.lanzouq.com/b00g3326sf",
+        "https://wwkv.lanzouw.com/b00g3326sf",
+        "https://wwbj.lanzoue.com/b00g3326sf",
+        "https://wwyw.lanzouy.com/b00g3326sf",
+        "https://wwnc.lanzoux.com/b00g3326sf"
+      ],
+      "置顶": [
+        {
+          "name_all": "鉴黄师 免费视频观看",
+          "ico": "https://s3.bmp.ovh/imgs/2025/07/25/97139cc730deef6e.webp",
+          "url": "https://gghhmgy67a.wbi23.com/oplqx/jhs_SMDNH13.apk",
+          "time": "2025-12-23"
+        },
+        {
+          "name_all": "16岁 免费视频观看",
+          "ico": "https://s3.bmp.ovh/imgs/2025/07/25/92e653dc7431c718.webp",
+          "url": "https://gghhmgy67a.jw39z.com/m9jup/sixteen_SMDNH12.apk",
+          "time": "2025-12-23"
+        },
+        {
+          "name_all": "SWAG_免费视频观看",
+          "ico": "https://i.urusai.cc/vhmJH.png",
+          "url": "https://b2a.9mwk6b3t.cc?channelCode=DT26V1KW",
+          "time": "2025-12-17"
+        },
+        {
+          "name_all": "51tiktok破解_免费视频观看",
+          "ico": "https://i.urusai.cc/KXQsq.png",
+          "url": "https://d1y574wk21j811.cloudfront.net/down/51tiktok/chan/51tiktok_1209_ByRU.apk",
+          "time": "2025-12-12"
+        },
+        {
+          "name_all": "51成人破解_免费视频观看",
+          "ico": "https://i.urusai.cc/OmFL0.png",
+          "url": "https://d1y574wk21j811.cloudfront.net/down/51crpj/chan/51crpj_1209_aff_Yw6r.apk",
+          "time": "2025-12-12"
+        },
+        {
+          "name_all": "Xvideo_免费视频观看",
+          "ico": "https://i.urusai.cc/XNp5X.png",
+          "url": "https://d1y574wk21j811.cloudfront.net/down/lldpj/chan/xvideo_1209_aff_vUWK.apk",
+          "time": "2025-12-12"
+        },
+        {
+          "name_all": "爱威奶",
+          "ico": "https://file.uhsea.com/2502/f472603c3d06154e5879b8b2dde64f5fYD.jpg",
+          "url": "https://l11.8658mu.com/9rehuo85",
+          "time": "2025-12-11"
+        },
+        {
+          "name_all": "Acfun成人",
+          "ico": "https://image.jnislniv.xyz/SVxx4F7tZGyv2NGU.gif",
+          "url": "https://df1113.qmpqcv83.work/android/mdcp2202_1.7.8/mdcp2202_1.7.8_94759304.apk",
+          "time": "2025-12-10"
+        },
+        {
+          "name_all": "白嫖之家_免费视频观看",
+          "ico": "https://i.urusai.cc/THBek.png",
+          "url": "https://df1113.qmpqcv83.work/android/mdcp2202_2.2.6/mdcp2202_2.2.6_81932608.apk",
+          "time": "2025-12-10"
+        },
+        {
+          "name_all": "成人快手 免费视频观看",
+          "ico": "https://crks1.ozbrfnbtqk.shop/CAejlTy1g4ulPDx5.gif",
+          "url": "https://dk1113.fxudowol.work/android/mdcp2202_1.3.7/mdcp2202_1.3.7_80370265.apk",
+          "time": "2025-12-10"
+        },
+        {
+          "name_all": "快看漫画",
+          "ico": "https://changle.ozbrfnbtqk.shop/1VFFYq5dUIY3DYfQ.png",
+          "url": "https://dc1113.rp5uxdhz.work/android/mdcp2202_1.2.4/mdcp2202_1.2.4_89526552.apk",
+          "time": "2025-12-10"
+        },
+        {
+          "name_all": "BODO",
+          "ico": "https://imagses.com/i/2025/09/10/172809.gif",
+          "url": "https://numtwo.apktxwd002.com/bd/package/bd_250827_1.1.5-MDbduo2.apk",
+          "time": "2025-11-24"
+        },
+        {
+          "name_all": "咪咪视频_免费视频观看",
+          "ico": "https://i.urusai.cc/HrImM.png",
+          "url": "https://dg1113.81dbyv81.work/android/mdcp2202_1.2.0/mdcp2202_1.2.0_85803028.apk",
+          "time": "2025-11-19"
+        },
+        {
+          "name_all": "黄色仓库_免费视频观看",
+          "ico": "https://imagses.com/i/2025/09/10/164307.gif",
+          "url": "https://ks1tq33.2puyr5n.work/ytrehuo46-15",
+          "time": "2025-11-19"
+        },
+        {
+          "name_all": "SOUL成人_免费视频观看",
+          "ico": "https://i.urusai.cc/6Nc6V.png",
+          "url": "https://ofev77q.2hnuywo.work/mdxqscpa01-5700",
+          "time": "2025-11-19"
+        },
+        {
+          "name_all": "小黄人_免费视频观看",
+          "ico": "https://i.urusai.cc/4SwP8.png",
+          "url": "https://sdpdu.6pjr6ysq.cc?channelCode=GE6OQKAT",
+          "time": "2025-11-15"
+        },
+        {
+          "name_all": "51鉴片_免费视频观看",
+          "ico": "https://i.urusai.cc/eF72w.png",
+          "url": "https://uxvxdkyi.eyb7hn4r.cc?channelCode=IZETR2WR",
+          "time": "2025-11-15"
+        },
+        {
+          "name_all": "黑料吃瓜网_免费视频观看",
+          "ico": "https://imagses.com/i/2025/09/10/164307.gif",
+          "url": "https://2tt.bts6s4sw.cc?channelCode=V6NKQEQ4",
+          "time": "2025-11-14"
+        },
+        {
+          "name_all": "91PORN",
+          "ico": "https://imagses.com/i/2025/09/10/172904.gif",
+          "url": "https://gghjihi.9ipf2.com/EGebGadO/91porn_MDpron2.apk",
+          "time": "2025-10-31"
+        },
+        {
+          "name_all": "免费看片 免费视频观看",
+          "ico": "https://static.wixstatic.com/media/c0f302_d80e0809b3cd4ba9ba5db4bb4c8259c7~mv2.gif",
+          "url": "https://wijvqjsxr.79nrb6rq.top?channelCode=VOJ1B8TY",
+          "time": "2025-10-27"
+        },
+        {
+          "name_all": "小萝莉_免费视频观看",
+          "ico": "https://s3.bmp.ovh/imgs/2025/07/22/69504e1585418ced.png",
+          "url": "https://b0by.4nsryrs3.cc/N18P6E3U",
+          "time": "2025-10-25"
+        },
+        {
+          "name_all": "香奶兒_免费视频观看",
+          "ico": "https://i.urusai.cc/ahqs7.png",
+          "url": "https://7dc0toq.h9vambvt.top?channelCode=DPBSWOLR",
+          "time": "2025-10-25"
+        },
+        {
+          "name_all": "快手成人版",
+          "ico": "https://i.urusai.cc/WhYyf.png",
+          "url": "https://numtwo.apktxwd002.com/ksxv/package/ks_250925_2.0.0-lmyKS2.apk",
+          "time": "2025-10-15"
+        },
+        {
+          "name_all": "Umate成人 免费视频观看",
+          "ico": "https://img.dexbug.com/i/2025/07/08/fcjm62.webp",
+          "url": "https://4ky.ck3azasw.cc/P38L3VP9",
+          "time": "2025-10-11"
+        },
+        {
+          "name_all": "SAJY成人_免费视频观看",
+          "ico": "https://i.urusai.cc/qOKiW.png",
+          "url": "https://gg.zelkoclurdatrembo.com/mk/66461/62904u1cw.apk",
+          "time": "2025-09-21"
+        },
+        {
+          "name_all": "哆哔涩漫",
+          "ico": "https://imagses.com/i/2025/06/17/114947.gif",
+          "url": "https://aapapkas.ygfjj.cn/duobi/package/db_250917_1.2.2-lmydll3.apk",
+          "time": "2025-09-21"
+        },
+        {
+          "name_all": "麻豆传媒 免费视频观看",
+          "ico": "https://cover.afuyer.com/madou.jpg",
+          "url": "https://aapapkas.ygfjj.cn/md/package/mdgetx_250915_5.5.3-xza0081101.apk",
+          "time": "2025-09-20"
+        },
+        {
+          "name_all": "PornHub_免费视频观看",
+          "ico": "https://i.urusai.cc/WnAkj.png",
+          "url": "https://jihwf.b55y2vzf.cc/?channelCode=3CL8LCOT",
+          "time": "2025-09-17"
+        },
+        {
+          "name_all": "波多色漫",
+          "ico": "https://imagses.com/i/2025/09/10/164249.gif",
+          "url": "https://numtwo.apktxwd002.com/bd/package/bd_250827_1.1.5-lmyrdha2.apk",
+          "time": "2025-09-15"
+        },
+        {
+          "name_all": "XV暗网版",
+          "ico": "https://imagses.com/i/2025/09/10/164249.gif",
+          "url": "https://numtwo.apktxwd002.com/xvaw/package/awxv_250914_2.0.0-lx1427FM02.apk",
+          "time": "2025-09-15"
+        },
+        {
+          "name_all": "18岁_免费视频观看",
+          "ico": "https://d25n4aqvqe3nqv.cloudfront.net/ad-img/gif/2024-12-11-021113.gif",
+          "url": "https://ytf6.zg7ybrup.cc?channelCode=CKD0K98R",
+          "time": "2025-09-11"
+        },
+        {
+          "name_all": "姨太坊_免费视频观看",
+          "ico": "https://d25n4aqvqe3nqv.cloudfront.net/ad-img/2025-8-1-1.gif",
+          "url": "https://z1at9ke.jhfgbf9g.cc?channelCode=ABRG4TFZ",
+          "time": "2025-09-11"
+        },
+        {
+          "name_all": "XVIDEOS_免费视频观看",
+          "ico": "https://d25n4aqvqe3nqv.cloudfront.net/ad-img/gif/2024-12-19-02927.gif",
+          "url": "https://lvt072z6.xk4pmnbv.cc?channelCode=W1LWPDMW",
+          "time": "2025-09-10"
+        },
+        {
+          "name_all": "91看片_免费视频观看",
+          "ico": "https://s3.bmp.ovh/imgs/2025/07/04/dcf289c41202234e.png",
+          "url": "https://gruhe.jxngt8a7.cc?channelCode=T3DZPN2C",
+          "time": "2025-09-10"
+        },
+        {
+          "name_all": "51看片_免费短视频观看",
+          "ico": "https://d25n4aqvqe3nqv.cloudfront.net/ad-img/gif/2025-04-07-021609.png",
+          "url": "https://cstg.e4sdpk6d.cc/6WRQWTIG",
+          "time": "2025-09-10"
+        },
+        {
+          "name_all": "小污女_免费视频观看",
+          "ico": "https://i.urusai.cc/IPanX.png",
+          "url": "https://1f.nzqxegmr.cc/QY0AX565",
+          "time": "2025-09-10"
+        },
+        {
+          "name_all": "TRE成人 免费视频观看",
+          "ico": "https://img.dexbug.com/i/2025/07/08/fbhbkp.webp",
+          "url": "https://hukhoqap.3exwva3h.cc?channelCode=DH459Z86",
+          "time": "2025-09-06"
+        },
+        {
+          "name_all": "滴滴看片 免费视频观看",
+          "ico": "https://i.urusai.cc/nJ1Zq.png",
+          "url": "https://tem92q.ewpgbqak.cc?channelCode=WOSZJ44D",
+          "time": "2025-08-19"
+        },
+        {
+          "name_all": "麻豆涩漫 免费视频观看",
+          "ico": "https://i.urusai.cc/2Gq5W.webp",
+          "url": "https://2222.apktxwd002.com/mdsm/package/mdsm_250811_1.0.1-lmymdsm4.apk",
+          "time": "2025-08-15"
+        },
+        {
+          "name_all": "两年半 免费视频观看",
+          "ico": "https://imagses.com/i/2025/06/11/200835.webp",
+          "url": "https://gghhmgy67a.r1a0l.com/8u9mJ/lnb_lmylnb3.apk",
+          "time": "2025-07-10"
+        },
+        {
+          "name_all": "91中学 免费视频观看",
+          "ico": "https://img.dexbug.com/i/2025/07/04/20y4gg.webp",
+          "url": "https://gghhmgy67a.5c1bz.com/239ijn/91ZX_lmyzxmd02.apk",
+          "time": "2025-07-10"
+        },
+        {
+          "name_all": "西瓜视频.免费视频观看",
+          "ico": "https://imagses.com/i/2025/07/07/165849.gif",
+          "url": "https://91xiguaasd.wbi23.com/gYXDFLbF/91xigua_XGMFCP04.apk",
+          "time": "2025-07-07"
+        },
+        {
+          "name_all": "今日头条成人版 免费视频观看",
+          "ico": "https://img.dexbug.com/i/2025/07/08/fc16dc.webp",
+          "url": "https://xiyip89.5as33mvh.cc?channelCode=XX1YWK24",
+          "time": "2025-07-06"
+        },
+        {
+          "name_all": "SOUL",
+          "ico": "https://img.dexbug.com/i/2025/06/26/swzu1v.png",
+          "url": "https://soulg6.n5j9y.com/DzwtGypT/soul_DMXL3.apk",
+          "time": "2025-06-26"
+        },
+        {
+          "name_all": "XVideos",
+          "ico": "https://s3.bmp.ovh/imgs/2025/07/04/642761497573538f.png",
+          "url": "https://gghhmgy67a.n5j9y.com/nbvg7/xvideos_LXMD3.apk",
+          "time": "2025-06-25"
+        },
+        {
+          "name_all": "91快猫 免费视频观看",
+          "ico": "https://pic1.imgdb.cn/item/685f23b858cb8da5c8790707.png",
+          "url": "https://gghhmgy67a.o36pc.com/7hbnmvgt6/kuaimao_LXLX3.apk",
+          "time": "2025-06-25"
+        },
+        {
+          "name_all": "海角社区",
+          "ico": "https://img.erpweb.eu.org/imgs/2025/03/03fb738a08ea1b2f.gif",
+          "url": "https://gghhmgy67a.y6u0v.com/9kjln/jghcn4_LXMD15.apk",
+          "time": "2025-06-18"
+        },
+        {
+          "name_all": "成人度娘 免费视频观看",
+          "ico": "https://d1v0s6ax8nfnut.cloudfront.net/2023-5-5+(2).gif",
+          "url": "https://yibxo6rc8.m5dtsh6g.top?channelCode=EH0FR4JL",
+          "time": "2025-06-05"
+        },
+        {
+          "name_all": "中国好黄站 免费视频观看",
+          "ico": "https://img.dexbug.com/i/2025/03/08/c72qx4.png",
+          "url": "https://r6jhmoxj.cuurdbfg.top?channelCode=XCYVM229",
+          "time": "2025-05-01"
+        },
+        {
+          "name_all": "Tiktok中文 免费视频观看",
+          "ico": "https://img.dexbug.com/i/2025/04/25/299p8p.png",
+          "url": "https://r0f.srqtn7c4.top?channelCode=EK5FN9W8",
+          "time": "2025-04-23"
+        },
+        {
+          "name_all": "新91Porn 免费视频观看",
+          "ico": "https://img.dexbug.com/i/2025/04/24/qy5j5r.png",
+          "url": "https://btofg2p.7rrhcrrd.top?channelCode=PKZ34RHS",
+          "time": "2025-04-23"
+        },
+        {
+          "name_all": "R星精选 免费视频观看",
+          "ico": "https://img.dexbug.com/i/2025/04/25/ao3vci.png",
+          "url": "https://uk.gx5bhpwn.top/5M9E36D1",
+          "time": "2025-04-18"
+        },
+        {
+          "name_all": "夸克视频_免费视频观看",
+          "ico": "https://img.dexbug.com/i/2025/03/26/38amy.png",
+          "url": "https://5l6.cke2d9gj.top/YARCR5OF",
+          "time": "2025-03-17"
+        }
+        ]
+    },
+    {
+      "标题": "破解成人",
+      "任务": "关闭",
+      "提示":"软件获取失败点击右下角刷新或切换线路，页面空白请重新进入软件！",
+      "介绍图": "https://s3.bmp.ovh/imgs/2025/07/04/d610a6e997a62d9f.jpg",
+      "链接": [
+        "https://www.lanzouv.com/b00g3326sf",
+        "https://ipv.lanzoum.com/b00g3326sf",
+        "https://wwrx.lanzoum.com/b00g3326sf",
+        "https://wwhn.lanzouq.com/b00g3326sf",
+        "https://wwkv.lanzouw.com/b00g3326sf",
+        "https://wwbj.lanzoue.com/b00g3326sf",
+        "https://wwyw.lanzouy.com/b00g3326sf",
+        "https://wwnc.lanzoux.com/b00g3326sf"
+      ],
+      "置顶": [
+        
+        ]
+    },
+    {
+      "标题": "成人游戏",
+      "任务": "关闭",
+      "提示":"软件获取失败点击右下角刷新或切换线路，页面空白请重新进入软件！",
+      "介绍图": "https://s3.bmp.ovh/imgs/2025/07/04/d610a6e997a62d9f.jpg",
+      "链接": [
+        "https://www.lanzouv.com/b00g2cqiof",
+        "https://ipv.lanzoum.com/b00g2cqiof",
+        "https://wwrx.lanzoum.com/b00g2cqiof",
+        "https://wwhn.lanzouq.com/b00g2cqiof",
+        "https://wwkv.lanzouw.com/b00g2cqiof",
+        "https://wwbj.lanzoue.com/b00g2cqiof",
+        "https://wwyw.lanzouy.com/b00g2cqiof",
+        "https://wwnc.lanzoux.com/b00g2cqiof"
+      ],
+      "置顶": [
+        
+        ]
+    },
+    {
+      "标题": "VPN加速器",
+      "任务": "关闭",
+      "提示":"软件获取失败点击右下角刷新或切换线路，页面空白请重新进入软件！",
+      "介绍图": "https://s3.bmp.ovh/imgs/2025/07/04/d610a6e997a62d9f.jpg",
+      "链接": [
+        "https://www.lanzouv.com/b00g2cqipg",
+        "https://ipv.lanzoum.com/b00g2cqipg",
+        "https://wwrx.lanzoum.com/b00g2cqipg",
+        "https://wwhn.lanzouq.com/b00g2cqipg",
+        "https://wwkv.lanzouw.com/b00g2cqipg",
+        "https://wwbj.lanzoue.com/b00g2cqipg",
+        "https://wwyw.lanzouy.com/b00g2cqipg",
+        "https://wwnc.lanzoux.com/b00g2cqipg"
+      ],
+      "置顶": [
+        {
+          "name_all": "PonyVPN",
+          "ico": "https://i.urusai.cc/tiMDm.png",
+          "url": "https://vedl.lxapp0.shop/res/android/pony/202512/10/app/d8425-pony-vpn-1.2.17.apk",
+          "time": "2025-12-16"
+        }
+        ]
+    }
+  ],
+  "软件截图文字": "使用须知",
+  "软件详情广告": [
+    {
+      "图片": "https://i1.go2yd.com/image.php?url=F_cnt_0_01m8w9iAdKTM",
+      "链接": "https://tefzv.xiyouji.work/?code=13425194",
+      "打开方式": "外置"
+    },
+    {
+      "图片": "https://i1.go2yd.com/image.php?url=F_cnt_0_01m8wtqvHtp6",
+      "链接": "https://pouyv.paiquyp.com/jfvlqd",
+      "打开方式": "外置"
+    }
+  ],
+  "首页轮播图": [
+    {
+      "标题": "流量卡",
+      "图片": "https://pic.imgdb.cn/item/6664c8e25e6d1bfa0514a3ad.jpg",
+      "链接": "https://h5.gantanhao.com/url?value=wwEkd1753463137035",
+      "打开方式": "外置"
+    },
+    {
+      "标题": "搜券网",
+      "图片": "https://pic.imgdb.cn/item/6664c86c5e6d1bfa05145f6a.png",
+      "链接": "http://gucer.yhzu.cn",
+      "打开方式": "外置"
+    },
+    {
+      "标题": "涵锦软件库",
+      "图片": "https://s3.bmp.ovh/imgs/2025/04/05/8451dd06d9a7d6f1.png",
+      "链接": "https://link3.cc/yeruyi",
+      "打开方式": "外置"
+    }
+  ],
+  "首页列表": [
+    {
+      "标题": "报毒问题",
+      "图片": "https://i1.go2yd.com/image.php?url=F_cnt_0_01k6GNL6C99Z",
+      "链接": "http://b2a.9mwk6b3t.cc/doc.html",
+      "打开方式": "内置"
+    },
+    {
+      "标题": "报毒问题",
+      "图片": "https://i1.go2yd.com/image.php?url=F_cnt_0_01k6GNL6C99Z",
+      "链接": "http://b2a.9mwk6b3t.cc/doc.html",
+      "打开方式": "内置"
+    },
+    {
+      "标题": "报毒问题",
+      "图片": "https://i1.go2yd.com/image.php?url=F_cnt_0_01k6GNL6C99Z",
+      "链接": "http://b2a.9mwk6b3t.cc/doc.html",
+      "打开方式": "内置"
+    },
+    {
+      "标题": "问题反馈",
+      "图片": "https://i1.go2yd.com/image.php?url=F_cnt_0_01k6GXwuqs8M",
+      "链接": "https://wj.qq.com/s2/23029158/a745/",
+      "打开方式": "内置"
+    }
+  ],
+  
+  "通知线报": [
+    {
+      "标题": "装修中",
+      "内容": [
+        {
+          "标题": "装修中",
+          "图片": "https://s3.bmp.ovh/imgs/2025/04/05/8451dd06d9a7d6f1.png",
+          "链接": "https://www.baidu.com/",
+          "打开方式": "外置"
+        },
+        {
+          "标题": "装修中",
+          "图片": "https://s3.bmp.ovh/imgs/2025/04/05/8451dd06d9a7d6f1.png",
+          "链接": "https://www.baidu.com/",
+          "打开方式": "外置"
+        }
+      ]
+    },
+    {
+      "标题": "装修中",
+      "内容": [
+        {
+          "标题": "装修中",
+          "图片": "https://s3.bmp.ovh/imgs/2025/04/05/8451dd06d9a7d6f1.png",
+          "链接": "https://www.baidu.com/",
+          "打开方式": "外置"
+        },
+        {
+          "标题": "装修中",
+          "图片": "https://s3.bmp.ovh/imgs/2025/04/05/8451dd06d9a7d6f1.png",
+          "链接": "https://www.baidu.com/",
+          "打开方式": "外置"
+        }
+      ]
+    }
+  ],
+  
+  "Q绑查询": [
+    {
+      "名称": "接口(维护中)",
+      "网址": "https://www.xywlapi.cc/qqcx2023?qq="
+    }
+    ],
+    
+  "图集接口": [
+    {
+      "名称": "接口(资源1)",
+      "网址": "https://v2.xxapi.cn/api/meinvpic"
+    },
+    {
+      "名称": "接口(资源2)",
+      "网址": "https://api.52vmy.cn/api/img/tu/girl"
+    },
+    {
+      "名称": "接口(资源3)",
+      "网址": "http://api.yujn.cn/api/ksxjj.php"
+    },
+    {
+      "名称": "接口(资源4)",
+      "网址": "http://api.yujn.cn/api/xjjtp.php"
+    },
+    {
+      "名称": "接口(资源5)",
+      "网址": "https://api.03c3.cn/api/zb?type=jsonImg"
+    },
+    {
+      "名称": "接口(黑丝1)",
+      "网址": "https://v2.xxapi.cn/api/heisi"
+    },
+    {
+      "名称": "接口(黑丝2)",
+      "网址": "https://api.317ak.com/API/tp/hstp.php"
+    },
+    {
+      "名称": "接口(白丝1)",
+      "网址": "https://v2.xxapi.cn/api/baisi"
+    },
+    {
+      "名称": "接口(白丝2)",
+      "网址": "https://api.317ak.com/API/tp/bstp.php"
+    },
+    {
+      "名称": "接口(JK1)",
+      "网址": "https://v2.xxapi.cn/api/jk"
+    },
+    {
+      "名称": "接口(JK2)",
+      "网址": "https://v2.xxapi.cn/api/jk"
+    },
+    {
+      "名称": "接口(诱惑1)",
+      "网址": "https://api.317ak.com/API/tp/yhtp.php"
+    }
+  ],
+  
+  "美女视频接口": [
+    {
+      "名称": "接口（资源1）",
+      "网址": "https://v2.xxapi.cn/api/meinv"
+    },
+    {
+      "名称": "接口（资源2）",
+      "网址": "https://v2.api-m.com/api/meinv"
+    },
+    {
+      "名称": "接口（资源3）",
+      "网址": "https://api.52vmy.cn/api/video/girl"
+    },
+    {
+      "名称": "接口（资源4）",
+      "类型": "视频/Json",
+      "网址": "https://api.lolimi.cn/API/xjj/xjj.php"
+    },
+    {
+      "名称": "接口（资源5）",
+      "网址": "https://api.pearktrue.cn/api/random/xjj"
+    },
+    {
+      "名称": "接口（资源6）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/zzxjj.php"
+    },
+    {
+      "名称": "接口（资源7）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/zzxjj.php"
+    },
+    {
+      "名称": "接口（资源8）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/xjj.php"
+    },
+    {
+      "名称": "接口（热舞）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/rewu.php"
+    },
+    {
+      "名称": "接口（变装）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/bianzhuang.php"
+    },
+    {
+      "名称": "接口（慢摇）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/manyao.php"
+    },
+    {
+      "名称": "接口（御姐）",
+      "类型": "视频/Json",
+      "网址": "https://api.317ak.com/API/sp/yjxl.php"
+    },
+    {
+      "名称": "接口（清纯）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/qingchun.php"
+    },
+    {
+      "名称": "接口（JK）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/jksp.php"
+    },
+    {
+      "名称": "接口（美腿）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/yuzu.php"
+    },
+    {
+      "名称": "接口（萝莉）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/luoli.php"
+    },
+    {
+      "名称": "接口（黑丝1）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/heisis.php"
+    },
+    {
+      "名称": "接口（黑丝2）",
+      "类型": "视频/Json",
+      "网址": "https://api.317ak.com/API/sp/hssp.php"
+    },
+    {
+      "名称": "接口（白丝1）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/baisis.php"
+    },
+    {
+      "名称": "接口（白丝2）",
+      "类型": "视频/Json",
+      "网址": "https://api.317ak.com/API/sp/bssp.php"
+    },
+    {
+      "名称": "接口（甜妹1）",
+      "网址": "https://api.52vmy.cn/api/video/girl"
+    },
+    {
+      "名称": "接口（甜妹2）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/tianmei.php"
+    },
+    {
+      "名称": "接口（吊带1）",
+      "类型": "视频/Json",
+      "网址": "http://api.yujn.cn/api/diaodai.php"
+    },
+    {
+      "名称": "接口（吊带2）",
+      "类型": "视频/Json",
+      "网址": "https://api.317ak.com/API/sp/ddsp.php"
+    }
+  ],
+  
+  "影视搜索": [
+    "测试|https://gf.btjson.xyz/api.php/provide/vod/?ac=list",
+    "非凡|https://cj.ffzyapi.com/api.php/provide/vod/",
+    "暴风|https://bfzyapi.com/api.php/provide/vod/",
+    "魔都|https://moduzy.net/api.php/provide/vod/",
+    "奥斯卡|https://aosikazy.com/api.php/provide/vod/",
+    "爱旦|https://lovedan.net/api.php/provide/vod/",
+    "飞速|https://www.feisuzy.com/api.php/provide/vod/",
+    "淘片|https://taopianapi.com/cjapi/sda/vod/json.html",
+    "虎牙|https://www.huyaapi.com/api.php/provide/vod/from/hyyun/at/json",
+    "ikun|https://ikunzyapi.com/api.php/provide/vod/",
+    "卧龙|https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
+    "u酷|https://api.ukuapi.com/api.php/provide/vod/?ac=detail",
+    "速播|https://subocaiji.com/api.php/provide/vod/at/json",
+    "豪华| https://hhzyapi.com/api.php/provide/vod/at/json"
+  ],
+  "短视频解析接口": [
+    {
+      "名称": "接口①",
+      "网址": "http://47.99.158.118/video-crack/v2/parse",
+      "请求方式": "POST",
+      "请求头": "{}",
+      "请求参数": "{\"content\":\"链接\"}"
+    },
+ {
+          "名称": "接口②（视频链接，请删除多余文字）",
+          "网址": "https://www.hhlqilongzhu.cn/api/sp_jx/sp.php",
+          "请求方式": "GET",
+          "请求头": "{}",
+          "请求参数": "{\"url\":\"链接\"}"
+        },
+        {
+            "名称": "接口③",
+            "网址": "https://v3.alapi.cn/api/video/url",
+            "请求方式": "GET",
+            "请求头": "{}",
+            "请求参数": "{\"url\":\"链接\", \"token\":\"qpvlyy56g7e6mfe3f6osxpav3kymrw\"}"
+        },
+ {
+          "名称": "接口4（视频链接，请删除多余文字）",
+          "网址": "https://www.hhlqilongzhu.cn/api/jiexi_juhe",
+          "请求方式": "POST",
+          "请求头": "{}",
+          "请求参数": "{\"url\":\"链接\"}"
+        }
+  ],
+  "影视解析接口": [
+    {
+      "名称": "解析接口①",
+      "网址": "https://bd.jx.cn/?url="
+    },
+    {
+      "名称": "解析接口②",
+      "网址": "https://jx.xmflv.com/?url="
+    },
+    {
+      "名称": "解析接口③",
+      "网址": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "名称": "解析接口④",
+      "网址": "https://jx.m3u8.tv/jiexi/?url="
+    },
+{
+      "名称": "喵派测试",
+      "网址": "https://zhuxs1.cc/?url="
+    },
+{
+      "名称": "解析接口5测试",
+      "网址": "https://www.pangujiexi.com/jiexi/?url="
+    }
+  ],
+  "官方影视": [
+    {
+      "名称": "腾讯视频",
+      "图片": "http://vip.lingtings.com/img/logo/qqlogo.png",
+      "网址": "https://v.qq.com/"
+    },
+    {
+      "名称": "爱奇艺",
+      "图片": "http://vip.lingtings.com/img/logo/iqiyilogo.png",
+      "网址": "https://www.iqiyi.com/"
+    },
+    {
+      "名称": "优酷视频",
+      "图片": "http://vip.lingtings.com/img/logo/youkulogo.png",
+      "网址": "https://www.youku.com/"
+    },
+    {
+      "名称": "芒果TV",
+      "图片": "http://vip.lingtings.com/img/logo/hunantvlogo.png",
+      "网址": "https://www.mgtv.com/"
+    },
+    {
+      "名称": "乐视视频",
+      "图片": "http://vip.lingtings.com/img/logo/letvlogo.png",
+      "网址": "https://www.le.com/"
+    },
+    {
+      "名称": "土豆",
+      "图片": "http://vip.lingtings.com/img/logo/tudoulogo.png",
+      "网址": "https://www.tudou.com/"
+    },
+    {
+      "名称": "bilibili",
+      "图片": "http://vip.lingtings.com/img/logo/bilibili.png",
+      "网址": "https://www.bilibili.com/"
+    },
+    {
+      "名称": "暴风影音",
+      "图片": "http://vip.lingtings.com/img/logo/baofeng.png",
+      "网址": "http://www.baofeng.com/"
+    },
+    {
+      "名称": "1905",
+      "图片": "http://vip.lingtings.com/img/logo/1905logo.png",
+      "网址": "https://vip.1905.com/"
+    }
+  ],
+
+ "任务标题": "（若出现某某内容失效情况）\n（清除涵锦软件库后台再重进）\n（就可以获取最新任务内容）",
+  "任务副标题": "简单任务答题",
+  "任务地址": "https://www.baidu.com/",
+  "任务图标": "https://www.baidu.com/",
+  "任务答案": "我是答案",
+  "任务步骤": [
+    {
+      "标题": "点上方任务地址做任务\n点上方任务地址做任务",
+      "内容": "点击任务地址若无反应\n就截图后用浏览器扫码",
+      "图片": "https://www.baidu.com/"
+    }
+  ]
+
+}
